@@ -1,4 +1,9 @@
 # logging SSH to discord
+![GitHub forks](https://img.shields.io/github/forks/devvyyxyz/modrinth-text-packs)
+![GitHub watchers](https://img.shields.io/github/watchers/devvyyxyz/modrinth-text-packs)
+![GitHub issues](https://img.shields.io/github/issues-raw/devvyyxyz/modrinth-text-packs)
+![GitHub Repo stars](https://img.shields.io/github/stars/devvyyxyz/modrinth-text-packs)
+![GitHub repo size](https://img.shields.io/github/repo-size/devvyyxyz/modrinth-text-packs)
 
 This script enhances the functionality of Alexander Henderson's original script for logging SSH sessions to Discord. The original script and blog post can be found [here](https://blog.alexsguardian.net/posts/2022/07/02/LoggingSSHtoDiscord/), and credit goes to Alexander Henderson ([alexandzors](https://github.com/alexandzors)).
 
@@ -55,3 +60,8 @@ Once installed, the script will send messages to the configured Discord channel 
 ## Disclaimer
 
 This script is provided as-is without any warranty. Use it at your own risk, and ensure that you comply with your organization's policies and guidelines.
+
+### Donate
+<a href="https://www.patreon.com/devvyyxyz" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcompact%2Fdonate%2Fpatreon-singular_vector.svg&amp;n=-1" alt="paypal-singular">
+</a>
