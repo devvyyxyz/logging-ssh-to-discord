@@ -68,7 +68,7 @@ This project is licensed under the MIT - see the [LICENSE](LICENSE) file for det
 
 ### Replit
 
-[Deploy to Replit](https://replit.com/import/github/<your-github-username>/<your-repo-name>)
+[Deploy to Replit](https://replit.com/import/github/devvyyxyz/logging-ssh-to-discord)
 
 ### Donate
 <a href="https://www.patreon.com/devvyyxyz" rel="noopener nofollow ugc">
